@@ -83,7 +83,8 @@
         });
     }
   
-* 特此感谢[作者]（https://github.com/DickyQie/android-shoppingcart）
+
 <p>这是我项目中用到的购物车，基本的功能都有了的。</p> 
 <p>有需要的小伙们，可以参考一下。</p> 
 <span id="OSC_h3_1"></span>
+## 特此感谢[@DickyQie](https://github.com/DickyQie/android-shoppingcart)
