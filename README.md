@@ -91,4 +91,4 @@
 
 
 ## 特此感谢
-- [@DickyQie](https://github.com/DickyQie/android-shoppingcart)
+* [@DickyQie](https://github.com/DickyQie/android-shoppingcart)
